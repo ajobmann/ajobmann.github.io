@@ -22,3 +22,5 @@
 |----------|----------|----------|
 |'Tis	   |Frank McCourt   |1954   |
 |Game of Thrones   |George R.R. Martin   |2010   |
+|The Googlization of Everything   |Siva Vaidhyanathan   |2011   |
+|Go Set a Watchman   |Harper Lee   |2015   |
